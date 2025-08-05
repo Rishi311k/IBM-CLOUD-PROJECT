@@ -1,2 +1,2 @@
 # IBM-CLOUD-PROJECT
-This is the detail of the final IBM project.
+This repository showcases the projects and courses completed during a 4-Week IBM internship on AI and Cloud Technologies.
